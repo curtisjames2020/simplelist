@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">simple list</string>
+    <string-array name="contacts">
+        <items>yvopne</items>
+        <items>kiamani</items>
+        <items>sly</items>
+        <items>shem</items>
+        <items>hans</items>
+        <items>migel</items>
+        <items>maya</items>
+        <items>kim</items>
+        <items>levis</items>
+        <items>loki</items>
+        <items>thor</items>
+        <items>lee</items>
+        <items>kelvin</items>
+        <items>pete</items>
+        <items>adel</items>
+        <items>megan</items>
+        <items>marklee</items>
+        <items>lish</items>
+        <items>domin</items>
+        <items>kamila</items>
+    </string-array>
+</resources>
